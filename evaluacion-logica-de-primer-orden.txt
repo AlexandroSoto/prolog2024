@@ -1,0 +1,25 @@
+Variables de Individuo:
+1.- todas las personas pagan.
+2.- todos los hombres son mortales.
+3.- Existen estudiantes inteligentes y trabajadores.
+4.- porteros sin camiseta negra, les anoto un europeo.
+5.- jugadores de botas blancas anotaron al portero de botas blancas.
+6.-los porteron no se marcaron a si mismos.
+7.-todos son jugadores.
+
+
+Constantes de individuo.
+1.-Socrates
+2.-Estudiantes.
+3.-Porteros.
+3.-Delanteros.
+4.-Platon
+5.-Aristoteles.
+
+Cuantificadores.
+1.- Cuantificador universal, todas las personas pagan.
+2.- Cuantificador existencial, hay estudiantes inteligentes y trabajadores.
+3.- cuantificador universal, los porteros sin camiseta negra les marcaron.
+4.- cuantificador universal, los jugadores de botas blancas le marcaron gol al portero de botas blancas
+5.- cuantificador existencial, existe al menos un portero de botas blancas.
+6.- cuantificador universal, ningun portero se anoto a si mismo.
